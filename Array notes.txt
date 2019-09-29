@@ -1,0 +1,9 @@
+Arrays
+
+step 1: size of an array should be declared. say n=5
+step 2: arr[n] = 0, arr[1] = 0, arr[2] = 0, arr[3] = 0, arr[4] = 0, arr[5] = 0
+step  3: initializw i=0
+step 4: condition of loop i>n
+step 5: arr[i] = enter the element
+"Enter the element" +arr[i]
+step 6: i should be incremented
